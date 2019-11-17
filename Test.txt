@@ -1,3 +1,5 @@
 
 
-my name is salman
+my name is salman.
+I want to put the title in the name.
+My Name is Salman Khan.
